@@ -1,0 +1,27 @@
+{
+  "name": "vue-slide",
+  "version": "1.1.1",
+  "description": "",
+  "main": "vue-slide.es5.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hilongjw/vue-slide.git"
+  },
+  "keywords": [
+    "vue",
+    "vue-slide",
+    "vue slide",
+    "vue component"
+  ],
+  "author": "Awe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hilongjw/vue-slide/issues"
+  },
+  "homepage": "https://github.com/hilongjw/vue-slide#readme",
+  "_from": "vue-slide@1.1.1",
+  "_resolved": "http://registry.npm.taobao.org/vue-slide/download/vue-slide-1.1.1.tgz"
+}

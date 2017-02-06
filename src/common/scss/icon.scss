@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'finance-icon';
+  src: url('../fonts/finance-icon.eot?pyeqtz');
+  src: url('../fonts/finance-icon.eot?pyeqtz#iefix') format('embedded-opentype'),
+  url('../fonts/finance-icon.ttf?pyeqtz') format('truetype'),
+  url('../fonts/finance-icon.woff?pyeqtz') format('woff'),
+  url('../fonts/finance-icon.svg?pyeqtz#finance-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'finance-icon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-menu:before {
+  content: "\e9bd";
+}
+
